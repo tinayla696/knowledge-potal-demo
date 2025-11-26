@@ -1,0 +1,5 @@
+site_name: Knowledge Potal
+theme:
+  name: material
+nav:
+  - Home: index.md

@@ -1,0 +1,2 @@
+# Knowledge Potal Document
+これはプロジェクトのドキュメントです。
